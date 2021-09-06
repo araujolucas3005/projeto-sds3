@@ -1,6 +1,6 @@
 function App() {
   return (
-    <h2>test</h2>
+    <h2 className="text-primary">test</h2>
   );
 }
 
